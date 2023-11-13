@@ -17,7 +17,7 @@ Merupakan aplikasi web yang memungkinkan pengguna untuk mengisi formulir, masuk,
 
 ## Menjalankan Aplikasi
 
-Untuk menjalankan aplikasi E-FORM, ikuti langkah-langkah berikut:
+Untuk menjalankan aplikasi web, ikuti langkah-langkah berikut:
 
 1. Pastikan Anda telah menginstal Flask. Jika belum, Anda dapat menginstalnya dengan perintah `pip install flask`.
 
@@ -38,12 +38,12 @@ Untuk menjalankan aplikasi E-FORM, ikuti langkah-langkah berikut:
   
   ![Login](screenshot/login.png)
 
+  - Halaman Login Failed
+  ![Failed](screenshot/login_failed.png)
+
   - Halaman Tabel Data User
   
   ![Data](screenshot/list_users.png)
-
-  - Halaman Login Failed
-  ![Failed](screenshot/login_failed.png)
 
 
 
