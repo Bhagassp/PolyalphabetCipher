@@ -32,18 +32,18 @@ Untuk menjalankan aplikasi E-FORM, ikuti langkah-langkah berikut:
 
   - Halaman Registrasi
   
-  ![Form-Input](screenshots/register.png)
+  ![Register](screenshot/register.png)
 
   - Halaman Login
   
-  ![Login](screenshots/login.png)
+  ![Login](screenshot/login.png)
 
   - Halaman Tabel Data User
   
-  ![Data](screenshots/list_users.png)
+  ![Data](screenshot/list_users.png)
 
   - Halaman Login Failed
-  ![Failed](screenshots/login_failed.png)
+  ![Failed](screenshot/login_failed.png)
 
 
 
